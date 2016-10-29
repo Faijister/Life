@@ -1,0 +1,13 @@
+apt-get install cowsay fortune-mod
+
+fortune | cowsay
+ _______________________________________
+/ Today is the first day of the rest of \
+\ your life.                            /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
