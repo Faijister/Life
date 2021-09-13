@@ -11,7 +11,7 @@ Novel:
 
 《乱世佳人》 (套装上下册) (译文名著精选)
         作者:  [美] 玛格丽特·米切尔 (Margaret Mitchell) 上海译文出版社 Kindle 版本 https://book.douban.com/subject/5245233/
-        COMPLETE - July 19 2020
+        - COMPLETED July 19 2020
 
 《人类简史》Yuval Noah Harari. 见识城邦·人类简史:从动物到上帝(以色列新锐历史学家尤瓦尔·赫拉利代表作,第十届文津图书奖获奖作品) (开放历史系列)  中信出版社. Kindle 版本.
         著者：[以色列] 尤瓦尔·赫拉利 译者： 林俊宏  https://book.douban.com/subject/25985021/
