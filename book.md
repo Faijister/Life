@@ -25,9 +25,11 @@ Novel:
 《罗马帝国衰亡史》 (读客熊猫君出品，套装全12册。一部横跨1300年，讲述罗马帝国由盛而衰的恢弘史诗。) Kindle电子书
         爱德华·吉本 (作者), 席代岳 (译者)  https://book.douban.com/subject/25942138/
 
-《巴坦加里的瑜伽经》 (沙吉难陀大师讲述） 陈景圆 译（借方老板）- COMPLETED Aug 2021
+《巴坦加里的瑜伽经》 (沙吉难陀大师讲述） 陈景圆 译（借方老板）https://book.douban.com/subject/20563181/  - COMPLETED Aug 2021
 
-《被讨厌的勇气》 【日】岸见一郎 古贺史键 著  渠海霞 译 Kindle电子书 - COMPLETED Sep 2021
+《被讨厌的勇气》 【日】岸见一郎 古贺史键 著  渠海霞 译 Kindle电子书 https://book.douban.com/subject/26369699/  - COMPLETED Sep 2021
+
+《金字塔原理：思考、表达和解决问题的逻辑》 【美】芭芭拉·明托 著  汪洱；高愉 译 Kindle电子书 https://book.douban.com/subject/33391219/  - READING
 
 
 Linux:
