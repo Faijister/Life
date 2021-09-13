@@ -32,11 +32,9 @@ Novel:
 
 Linux:
 =====================================================================
-lkn - linux kernel in a nutshell
-        by greg kroah-hartman http://www.kroah.com/lkn/
+《lkn - linux kernel in a nutshell》 by greg kroah-hartman http://www.kroah.com/lkn/
 
 
 Solaris:
 =====================================================================
-Solaris Internals
-        Author: Richard McDougall & Jim Mauro
+《Solaris Internals》 Author: Richard McDougall & Jim Mauro
