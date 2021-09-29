@@ -31,6 +31,13 @@ Novel:
 
 《金字塔原理：思考、表达和解决问题的逻辑》 【美】芭芭拉·明托 著  汪洱；高愉 译 Kindle电子书 https://book.douban.com/subject/33391219/  - READING
 
+《杀死一只知更鸟》 【美】哈珀·李（Harper Lee）著； 李育超 译 Kindle电子书 https://book.douban.com/subject/26879778/  - COMPLETED Sep 2021
+
+《百年孤独》 【哥伦比亚】加西亚·马尔克斯（Gabriel García Márquez）著； 范晔 译 https://book.douban.com/subject/6082808/  - COMPLETED Sep 2021
+
+《Nineteen Eighty-Four》 【英】乔治·奥威尔（George Orwell）著； 董乐山 译 https://book.douban.com/subject/3815131/  - COMPLETED Sep 2021
+
+
 
 Linux:
 =====================================================================
